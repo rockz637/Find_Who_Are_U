@@ -3,214 +3,214 @@ package jj;
 import java.util.Random;
 import java.util.Scanner;
 class Words{
-	 
+
 
 	static void Auser() {
 		Random randomWord = new Random();
 		String list[] = {"an Angel","an Aasvogel","an Axolotl","a Big Anaconda","AryaStark 'Valar Morgulis'  ","Arguseyed "};
-        
-        System.out.print("You are " + list[randomWord.nextInt(list.length)]); 
+
+        System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Buser() {
 		Random randomWord = new Random();
 		String list[] = {"a BasketBall, yeah that's it","a Bear","such a Bitch","a Badass","a Barbie","a Bacon"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Cuser() {
 		Random randomWord = new Random();
 		String list[] = {"a Cactus, ew","a Clickbaiter","Caligula","Catwomen","a Cabbage"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Duser() {
 		Random randomWord = new Random();
 		String list[] = {"a Doctor , ew","a Douchebag","a Dictator", "Daenerys Targareyn, be carefull with your dragon"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Euser() {
 		Random randomWord = new Random();
 		String list[] = {"an Euglena","a Echidna"," an Emu", "an Ermine"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Fuser() {
 		Random randomWord = new Random();
 		String list[] = {"funny","a fig, yeah that's right","a Fossa","a Fairy","a falcon"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Guser() {
 		Random randomWord = new Random();
 		String list[] = {"Gal Gadot","Goofy","Garfield","Gargamel","a Gollum","a Godzilla","Ghostfreak"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Huser() {
 		Random randomWord = new Random();
 		String list[] = {"Harry Poter","He-Man","Handsome","Hank schrader","a Hat","Heat Blast"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Iuser() {
 		Random randomWord = new Random();
 		String list[] = {"an Iphone and iphones are $#!+ ","Iron Man, not the dead one","Inidana Jones"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Juser() {
 		Random randomWord = new Random();
 		String list[] = {"Jack Dawson","Jack Daniels","Jessica Rabbit","Jimmy Neutron"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Kuser() {
 		Random randomWord = new Random();
 		String list[] = {"a King, but King Joffrey","a Karen","Kalam","a Kangaroo","a Kiwi"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Luser() {
 		Random randomWord = new Random();
 		String list[] = {"Loci","Lisa Simpson","a lizard","Ligtning Mcqueen","Lola Bunny"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Muser() {
 		Random randomWord = new Random();
 		String list[] = {"a Monkey","Mad Man","a monster","a Mango","a Moron"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Nuser() {
 		Random randomWord = new Random();
 		String list[] = {"Nemo, Dont get lost","Nick Wilde","Nala","Ned Flanders","Nairobi"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}static void Ouser() {
 		Random randomWord = new Random();
 		String list[] = {"an Owl","an Ostrich","Oogie Boogie","Optimus Prime"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Puser() {
 		Random randomWord = new Random();
 		String list[] = {"a Peacock","Peter Pan","Pinocchio","Patrick Star"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Quser() {
 		Random randomWord = new Random();
 		String list[] = {"Quasimodo","Quilava","Quill","Quick Silver"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Ruser() {
 		Random randomWord = new Random();
 		String list[] = {"Richard III","Robin Hood ","a Raccoon","a 3 eyed Raven"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
-	
+
 	static void Suser() {
 		Random randomWord = new Random();
 		String list[] = {"Sherlock Holmes","Simba","a Simp , tier 3 sub","Shere Khan","Sid Phillips"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Tuser() {
 		Random randomWord = new Random();
 		String list[] = {"Tfue","Thick","Thala","Tinker Bell","Thor","Tarzan"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}static void Uuser() {
 		Random randomWord = new Random();
 		String list[] = {"Ultron","Ultra Girl","an Unicorn"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Vuser() {
 		Random randomWord = new Random();
 		String list[] = {"a Villain","Vladimir Puddin","Virat Kholi","Vin Dielsel"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Wuser() {
 		Random randomWord = new Random();
 		String list[] = {"a Walrus","a Wasp","a whale","Wolverine"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Xuser() {
 		Random randomWord = new Random();
 		String list[] = {"Xlr8","X-Men","Xi Jinping"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Yuser() {
 		Random randomWord = new Random();
 		String list[] = {"Yeti","Yamsk","Young"};
-       
-        
+
+
         System.out.print("You are " + list[randomWord.nextInt(list.length)]);
 
 	}
 	static void Zuser() {
-		
-       
-        
+
+
+
         System.out.print("YTF Ur name starts with Z?");
 
 	}
-	
+
 }
 public class WhoRu {
 
@@ -290,6 +290,7 @@ public class WhoRu {
 		case 'r' :
 		case 'R' :
 			Words.Ruser();
+			break;
 		case 's' :
 		case 'S' :
 			Words.Suser();
@@ -322,7 +323,7 @@ public class WhoRu {
 		case 'Z' :
 			Words.Zuser();
 			break;
-			
+
 			default :
 				System.out.println(" Your name is freakin weird ");
 			break;
